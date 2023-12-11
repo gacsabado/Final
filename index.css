@@ -118,21 +118,7 @@ body{
     .TopContent {
         max-width: 100%;
     }
-
-    .button-container {
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-15vw, 5vh);
-        display: flex;
-        justify-content: space-around;
-        margin: 20px;
-    }
     
-    .button-container a {
-        margin-top: 60px;
-    }
-
     .myform {
         flex-direction: column;
     }
