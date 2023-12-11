@@ -76,7 +76,7 @@ body{
     position: fixed;
     top: 50%;
     left: 50%;
-    transform: translate(-270%, 150%);
+    transform: translate(-15vw, 5vh);
     display: flex;
     justify-content: space-around;
     margin: 20px;
