@@ -121,7 +121,7 @@ body{
 
     .button-container {
     position: fixed;
-    top: 50%;
+    top: 65%;
     left: 50%;
     transform: translate(-15vw, 100vh);
     display: flex;
