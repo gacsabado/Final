@@ -100,4 +100,37 @@ body{
     color: #12f7ff;
 }
 
+@media screen and (max-width: 768px) {
+    .navlist {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navlist li {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .banner {
+        padding: 20px;
+    }
+
+    .TopContent {
+        max-width: 100%;
+    }
+
+    .button-container a {
+        margin-top: 10px;
+    }
+
+    .myform {
+        flex-direction: column;
+    }
+
+    .signup,
+    .login {
+        max-width: 100%;
+        margin: 10px 0;
+    }
+}
 
