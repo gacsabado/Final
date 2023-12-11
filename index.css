@@ -44,7 +44,7 @@ body{
     float: right;
     position: absolute;
     top: 45%;
-    transform: translateY(-50%);
+    transform: translateY(-15vh);
     text-align: center;
     color: aliceblue;
 }
